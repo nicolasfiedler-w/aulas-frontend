@@ -307,3 +307,8 @@ html[data-theme='light'] {
     --cor-input-fundo: #ffffff;
     --cor-input-texto: #333333;
 }
+
+.destaque-infectado {
+    border: 2px solid var(--cor-sangue);
+    transform: scale(1.02);
+}
